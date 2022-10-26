@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS EN 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/53
+#EXTINF:-1,BEIN SPORTS EN 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/64
+#EXTINF:-1,BEIN SPORTS ENGLISH 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/218
+#EXTINF:-1,BEIN SPORTS EN 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/463
+#EXTINF:-1,BEIN SPORTS PREMIER 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/8
+#EXTINF:-1,BEIN SPORTS PREMIER 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/9
+#EXTINF:-1,BEIN SPORTS PREMIER 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/10
+#EXTINF:-1,BEIN SPORT NEWS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/449
+#EXTINF:-1,BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/2
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/1
+#EXTINF:-1,BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/3
+#EXTINF:-1,BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/4
+#EXTINF:-1,BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/5
+#EXTINF:-1,BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/6
+#EXTINF:-1,BEIN SPORTS 7
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/7
+#EXTINF:-1,BEIN XTRA 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/40
+#EXTINF:-1,USA NETWORK
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/384
+#EXTINF:-1,NBC SPORTS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/450
+#EXTINF:-1,NBC SPORTS 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/209
+#EXTINF:-1,SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEIN@Uytre12/BEIN/306
