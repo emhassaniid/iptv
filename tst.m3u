@@ -1,3 +1,6 @@
+#EXTINF:0,beIN 3 HEVC
+http://p1.g6iptv.com:9000/live/all-local/local/621.ts
+
 #EXTM3U
 #EXTINF:-1,beINSports-fr1
 http://iptv.am000.tv:8000/live/add17/add17/16.ts
